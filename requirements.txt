@@ -1,0 +1,11 @@
+torch>=1.12
+torchvision
+numpy
+opencv-python
+scikit-image
+Pillow
+tqdm
+matplotlib
+scipy
+lpips             # optional, for perceptual loss
+piq               # optional, for SSIM/PSNR if you want
